@@ -1,4 +1,5 @@
 import time
+#the website to try this is https://codehs.com/sandbox/id/html-ln3Gl4
 def startgame3(): 
     if startgamefloat == 192011820:
         level0()
