@@ -1,5 +1,6 @@
 import time
 #the website to try this is https://codehs.com/sandbox/id/html-ln3Gl4
+#see if you can find the secret passwords!
 def startgame3(): 
     if startgamefloat == 192011820:
         level0()
@@ -10,7 +11,7 @@ def startgame3():
         stargamefloatryagain()
     else:
         print("Game Over. Try Again?")
-#ansers are 4, 6.5, 32.65,88, 687, 3786.54
+#ansers are 
 Name = input("Please enter your name here: ")
 def end1():
     for i in range(10):
@@ -81,7 +82,7 @@ def levelone():
     else:
         print("You lose.")
         print("hint: (this number has a decimal point!)")
-#startnum is 192011820
+#startnum is 
 startgame = input("Enter The Correct Code to Start the Game! ")
 startgamefloat = float(startgame)
 if startgamefloat == 666:
